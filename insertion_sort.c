@@ -20,6 +20,8 @@ void insertion_sort(int items[], int n) {
     }
 }
 
+void insertion_sort_clrs(int s[], int n) {
+}
 void insertion_sort_skiena(int s[], int n) {
     int i, j;
     for(i = 1; i < n; i++) {
